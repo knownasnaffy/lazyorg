@@ -6,7 +6,7 @@ import (
 )
 
 type Keybind struct {
-	key     interface{}
+	key     any
 	handler func(*gocui.Gui, *gocui.View) error
 }
 
