@@ -16,6 +16,8 @@
   <img src="./assets/demo.gif" alt="Lazyorg Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
+> Fork of the original [HubertBel/lazyorg](https://github.com/HubertBel/lazyorg). Modified to suit my jkl; style keybinds instead of hjkl ones. Also changes button and input colors for better readability with tokyonight theme for the terminal.in
+
 
 ## Features
 - 📅 Terminal-based calendar interface
@@ -89,7 +91,7 @@ When creating a new event (`a`), you'll be prompted to fill in the following fie
 ## Configuration
 
 Configuration file will come in future releases. For now, when you open the app for the first time, the database is created at `~/.local/share/lazyorg/data.db` in case you want to do a backup.
-  
+
 ## Contributing
 Please feel free to submit a Pull Request!
 
