@@ -17,3 +17,5 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/j-04/gocui-component => github.com/knownasnaffy/gocui-component v0.0.0-20250708162917-7a5266485023
